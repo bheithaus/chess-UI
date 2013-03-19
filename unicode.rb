@@ -15,15 +15,15 @@ white[:n] = "♗"
 white[:b] = "♘"
 white[:p] = "♙"
 
-##black
+## black ##
 
 black = {}
-black[:k] = "♔"
-black[:q] = "♕"
-black[:r] = "♖"
-black[:n] = "♗"
-black[:b] = "♘"
-black[:p] = "♙"
+black[:k] = "♚"
+black[:q] = "♛"
+black[:r] = "♜"
+black[:n] = "♝"
+black[:b] = "♞"
+black[:p] = "♟"
 
 puts "white team:"
 white.each { |key, value| puts "#{value}" }
