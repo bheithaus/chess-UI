@@ -11,8 +11,8 @@ white = {}
 white[:k] = "♔"
 white[:q] = "♕"
 white[:r] = "♖"
-white[:n] = "♗"
-white[:b] = "♘"
+white[:b] = "♗"
+white[:n] = "♘"
 white[:p] = "♙"
 
 ## black ##
@@ -21,8 +21,8 @@ black = {}
 black[:k] = "♚"
 black[:q] = "♛"
 black[:r] = "♜"
-black[:n] = "♝"
-black[:b] = "♞"
+black[:b] = "♝"
+black[:n] = "♞"
 black[:p] = "♟"
 
 puts "white team:"
